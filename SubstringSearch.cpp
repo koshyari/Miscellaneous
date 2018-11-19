@@ -29,6 +29,7 @@
         cin >> p;
 
         cout << "Pattern p was found in string s " << naive(s,p) << " times" << endl;
+        return 0;
     }
 
 
